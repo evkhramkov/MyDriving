@@ -3,6 +3,7 @@ services: iot-hub, applications-insights, app-service, data-factory, hdinsight, 
 platforms: dotnet, ios, android, xamarin
 author: harikm86
 ---
+upd
 
 # MyDriving - An Azure IOT and Mobile Sample Application
 
